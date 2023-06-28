@@ -10,7 +10,7 @@ import java.sql.Statement;
 /**
  * SQL sublanguage: DDL (Data Definition Language)
  *
- * A VIEW in SQL is a virtual table that was created based on a SQL statement that was predefined.
+ * A VIEW in SQL is a virtual table that was created based on a SQL statement that was predefined
  *
  * For example, lets say we had the following table:
  *      site_user table:
