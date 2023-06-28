@@ -12,7 +12,7 @@ import java.sql.Statement;
  *
  * A VIEW in SQL is a virtual table that was created based on a SQL statement that was predefined
  *
- * For example, lets say we had the following table:
+ * For example
  *      site_user table:
  *      |   id  |     firstname        |        lastname        |   age   |
  *      -------------------------------------------------------------------
